@@ -1,0 +1,15 @@
+body{
+    background-size:cover;
+    font-family: 'Licorice', cursive;
+}
+canvas{
+    margin-top: 100px;
+    border-color: #435A9D;
+    border-radius: 20px;
+    border-width: 3px;
+    border-style: solid;
+}
+#span, #h3{
+    font-size: x-large;
+    font-family: 'Licorice', cursive;
+}
